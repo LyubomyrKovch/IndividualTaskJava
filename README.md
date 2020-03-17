@@ -8,11 +8,13 @@ Define class Fruit which contains:
 -	Override output() for output to console
 -	Getters and setters
 -	Overridden ToString() method
+
 Define a descendant class Citrus that has:
 -	field VitaminC that shows how much vitamin C this fruit contains, 
 -	Constructor with parameters, 
 -	Additional getter and setter, 
 -	Overridden input() and output() methods.
+
 Create a collection of fruits and add some different fruits and citruses to it.
 -	Output the data about yellow fruits
 -	Sort the collection by name
