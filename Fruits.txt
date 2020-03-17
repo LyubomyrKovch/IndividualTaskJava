@@ -1,0 +1,4 @@
+Fruit apple, color yellow
+Fruit apple, color red
+Fruit lemone, color yellow, has 12.0 vitamin C
+Fruit orange, color orange, has 1.0 vitamin C

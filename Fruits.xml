@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_241" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Fruits.Fruit">
+    <void property="color">
+     <string>yellow</string>
+    </void>
+    <void property="name">
+     <string>apple</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fruits.Fruit">
+    <void property="color">
+     <string>red</string>
+    </void>
+    <void property="name">
+     <string>apple</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fruits.Citrus">
+    <void property="color">
+     <string>yellow</string>
+    </void>
+    <void property="name">
+     <string>lemone</string>
+    </void>
+    <void property="vitaminC">
+     <double>12.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fruits.Citrus">
+    <void property="color">
+     <string>orange</string>
+    </void>
+    <void property="name">
+     <string>orange</string>
+    </void>
+    <void property="vitaminC">
+     <double>1.0</double>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
